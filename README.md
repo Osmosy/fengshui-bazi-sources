@@ -50,6 +50,8 @@ cheatsheet.md   таблицы: 干支/五行, 十神, 十二長生, 三合六�
 
 ## Лицензия и атрибуция
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 - Текст навыка — **CC BY 4.0** (`LICENSE.md`): использование, включая коммерческое, с указанием
   авторства.
 - Оригиналы книг — public domain: китайские классики и западные издания 1882–1913 гг.
