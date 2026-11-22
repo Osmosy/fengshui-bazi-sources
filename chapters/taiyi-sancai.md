@@ -97,7 +97,7 @@
 
 ---
 
-# 太乙統宗寶鑑 (Taiyi Comprehensive Divination Mirror, 曉山老人, 1303, 20 卷) — https://sourcelibrary.org/book/taiyi-comprehensive-divination-mirror
+# 太乙統宗寶鑑 («Драгоценное зеркало единой традиции Тайи», 曉山老人, 1303, 20 卷) — https://sourcelibrary.org/book/taiyi-comprehensive-divination-mirror
 
 ## Карта содержания (→ страницы)
 - стр. 1–5: 序 曉山老人, 大德七年癸卯 (1303); 太乙 южнее 天乙, 統十六神; генезис от 黄帝/風后/指南車; 20 卷
