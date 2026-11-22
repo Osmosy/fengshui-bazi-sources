@@ -1,0 +1,6 @@
+# полные тексты книг в репозиторий не входят
+books/
+source-library/
+*.pdf
+__pycache__/
+.DS_Store
